@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
