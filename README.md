@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0001-two-sum) |
+| [1470-shuffle-the-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1929-concatenation-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
