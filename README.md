@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -59,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
