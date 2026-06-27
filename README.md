@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1929-concatenation-of-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
