@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1470-shuffle-the-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1929-concatenation-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0148-sort-list) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
