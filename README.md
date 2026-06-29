@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |
