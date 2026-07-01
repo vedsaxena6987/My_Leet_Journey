@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1470-shuffle-the-array) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
