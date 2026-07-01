@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
