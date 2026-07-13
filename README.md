@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Tree
 |  |
