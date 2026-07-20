@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
