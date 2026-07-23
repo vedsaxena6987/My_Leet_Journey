@@ -1,7 +1,19 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        const unsigned n=nums.size();
-        return (n<3)?n:1<<(32-countl_zero(n));
+        int n = nums.size();
+
+        if (n < 3) {
+            return n;
+        }
+
+        int p = 0, cur = n;
+
+        while (cur) {
+            cur >>= 1;
+            p++;
+        }
+
+        return 1 << p;
     }
 };
