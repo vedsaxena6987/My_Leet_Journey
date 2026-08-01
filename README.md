@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0645-set-mismatch) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -284,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
