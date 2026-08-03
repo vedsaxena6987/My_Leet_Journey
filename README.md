@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3620-network-recovery-pathways) |
@@ -295,4 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
