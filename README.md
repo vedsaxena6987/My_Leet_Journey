@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0704-binary-search) |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -303,13 +307,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vedsaxena6987/My_Leet_Journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
